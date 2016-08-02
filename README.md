@@ -1,8 +1,2 @@
-# hello-worl
+# hello-world
 A repository
-
-#include <iostream>
-int main()
-{
-retun 0;
-}
