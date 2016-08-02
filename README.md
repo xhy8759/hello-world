@@ -1,2 +1,8 @@
 # hello-world
-A repository
+A repositoy
+
+#include<iostream>
+int main()
+{
+return 0;
+}
