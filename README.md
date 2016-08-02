@@ -1,5 +1,5 @@
 # hello-world
-A repositoy
+A repository
 
 #include<iostream>
 int main()
